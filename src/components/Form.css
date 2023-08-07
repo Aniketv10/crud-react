@@ -1,0 +1,45 @@
+form{
+    margin-top: 3rem;
+
+}
+form div button{
+    margin-top: 2rem;
+    /* margin-bottom: 2rem; */
+}
+.showData{
+    
+    /* border: 2px solid blue; */
+    padding: 1rem 5rem 1rem 5rem;
+    width: fit-content;
+    margin: auto;
+    border-radius: 8px;
+}
+.perdata-list{
+    margin: 3rem;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    height: 5rem;
+    width: 30rem;
+}
+.addData{
+    margin-left: 1rem;
+    border: 2px solid greenyellow;
+    font-size: 23px;
+    padding: 6px;
+    border-radius: 5px;
+    background-color: greenyellow;
+
+}
+.h-data{
+    margin-top: 1rem;
+}
+.deleteData{
+    margin-left: 1rem;
+    border: 2px solid greenyellow;
+    font-size: 23px;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: greenyellow;
+
+}
